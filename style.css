@@ -180,7 +180,7 @@ img{
 
 /* Projects Section */
 #projects{
-    background-image: url(images/darkGray.jpg);
+    background-image: url(./images/darkGray.jpg);
     background-size:auto;
     background-position: top center;
     position: relative;
